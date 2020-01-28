@@ -1,2 +1,2 @@
-web: bash setup && streamlit run iris2.py
+web: bash setup && streamlit run BikeShare.p
 #web: sh setup && streamlit run BikeShare.py
